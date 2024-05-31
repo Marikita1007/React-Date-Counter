@@ -1,2 +1,4 @@
 # React-Date-Counter
-Created with CodeSandbox
+Created with CodeSandbox 
+
+This is a React project of Udemy course.  
